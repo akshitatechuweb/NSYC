@@ -1,0 +1,56 @@
+# 🔹 Node modules
+
+node_modules/
+
+# 🔹 Build output
+
+dist/
+build/
+
+# 🔹 Logs
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🔹 Environment variables
+
+.env
+.env.*
+!.env.example
+
+# 🔹 OS files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE / Editor folders
+
+.vscode/
+.idea/
+
+# 🔹 Coverage (testing)
+
+coverage/
+
+# 🔹 NestJS specific
+
+*.tsbuildinfo
+
+# 🔹 Temporary files
+
+tmp/
+temp/
+
+# 🔹 Debug files
+
+*.pid
+*.seed
+*.pid.lock
+
+# 🔹 Optional: uploads (if you store images/files locally)
+
+uploads/
+public/uploads/
