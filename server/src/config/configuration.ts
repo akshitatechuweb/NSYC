@@ -11,5 +11,9 @@ export default () => ({
     expiryMinutes: parseInt(process.env.OTP_EXPIRY_MINUTES || '5', 10),
     length: parseInt(process.env.OTP_LENGTH || '6', 10),
     useRealSms: process.env.USE_REAL_SMS === 'true',
+    renflair: {
+      apiKey: process.env.RENFLAIR_API_KEY || '',
+      baseUrl: process.env.RENFLAIR_BASE_URL || 'https://sms.renflair.in/V1.php',
+    },
   },
 });
