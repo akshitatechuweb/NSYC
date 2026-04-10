@@ -1,0 +1,1340 @@
+[
+  {
+    "name": "IIT Bombay",
+    "state": "Maharashtra",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 45000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Delhi",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 50000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Madras",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 48000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Kanpur",
+    "state": "Uttar Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 47000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Kharagpur",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 46000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Roorkee",
+    "state": "Uttarakhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 44000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Guwahati",
+    "state": "Assam",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 43000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIT Hyderabad",
+    "state": "Telangana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 52000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NIT Trichy",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 35000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BITS Pilani",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 200000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VIT Vellore",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 180000,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SRM University",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 150000,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 170000,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 1",
+    "state": "Andhra Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 32009,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 2",
+    "state": "Bihar",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 73341,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 3",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 116724,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 4",
+    "state": "Andhra Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 185903,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 5",
+    "state": "Gujarat",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 44441,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 6",
+    "state": "Madhya Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 87389,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 7",
+    "state": "Andhra Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 78452,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 8",
+    "state": "Telangana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 164894,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 9",
+    "state": "Telangana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 176601,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 10",
+    "state": "Bihar",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 173959,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 11",
+    "state": "Jharkhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 76032,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 12",
+    "state": "Assam",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 166609,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 13",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 98274,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 14",
+    "state": "Gujarat",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 143247,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 15",
+    "state": "Madhya Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 167362,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 16",
+    "state": "Chhattisgarh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 169539,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 17",
+    "state": "Kerala",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 167384,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 18",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 96398,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 19",
+    "state": "Assam",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 46479,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 20",
+    "state": "Uttarakhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 184837,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 21",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 79075,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 22",
+    "state": "Odisha",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 33091,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 23",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 122954,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 24",
+    "state": "Punjab",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 90138,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 25",
+    "state": "Jharkhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 73715,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 26",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 181022,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 27",
+    "state": "Chhattisgarh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 170109,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 28",
+    "state": "Gujarat",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 162218,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 29",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 127671,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 30",
+    "state": "Assam",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 158210,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 31",
+    "state": "Jharkhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 193600,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 32",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 57176,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 33",
+    "state": "Jharkhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 157714,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 34",
+    "state": "Telangana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 76945,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 35",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 64342,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 36",
+    "state": "Haryana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 98099,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 37",
+    "state": "Odisha",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 107213,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 38",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 145249,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 39",
+    "state": "Jharkhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 199513,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 40",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 116737,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 41",
+    "state": "Chhattisgarh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 141215,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 42",
+    "state": "Madhya Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 134300,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 43",
+    "state": "Gujarat",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 165028,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 44",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 108235,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 45",
+    "state": "Assam",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 96217,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 46",
+    "state": "Uttarakhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 135281,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 47",
+    "state": "Uttar Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 126231,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 48",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 180505,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 49",
+    "state": "Maharashtra",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 69221,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 50",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 123396,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 51",
+    "state": "Maharashtra",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 180485,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 52",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 125491,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 53",
+    "state": "Kerala",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 192931,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 54",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 157922,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 55",
+    "state": "Haryana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 86530,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 56",
+    "state": "Odisha",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 62958,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 57",
+    "state": "Kerala",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 138934,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 58",
+    "state": "Assam",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 148028,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 59",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 125663,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 60",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 116521,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 61",
+    "state": "Telangana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 89939,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 62",
+    "state": "Haryana",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 88553,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 63",
+    "state": "Delhi",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 105431,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 64",
+    "state": "Odisha",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 114121,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 65",
+    "state": "Uttarakhand",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 193369,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 66",
+    "state": "Maharashtra",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 198878,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 67",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 77707,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 68",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 58170,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 69",
+    "state": "Andhra Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 74608,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 70",
+    "state": "Chhattisgarh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 184550,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 71",
+    "state": "Kerala",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 77321,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 72",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 59648,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 73",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 53570,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 74",
+    "state": "Chhattisgarh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 83402,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 75",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 79374,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 76",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 40419,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 77",
+    "state": "Gujarat",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 88045,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 78",
+    "state": "Uttar Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 169573,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 79",
+    "state": "Uttar Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 146458,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 80",
+    "state": "Maharashtra",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 161755,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 81",
+    "state": "Andhra Pradesh",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 159136,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 82",
+    "state": "Tamil Nadu",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 144942,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 83",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 54816,
+        "mode": [
+          "Regular"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 84",
+    "state": "Rajasthan",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 176109,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 85",
+    "state": "West Bengal",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 41893,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 86",
+    "state": "Kerala",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 140618,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering College 87",
+    "state": "Karnataka",
+    "courses": [
+      {
+        "name": "B.Tech",
+        "fees": 137301,
+        "mode": [
+          "Regular",
+          "Online"
+        ]
+      }
+    ]
+  }
+]

@@ -6,6 +6,7 @@ import configuration from './config/configuration';
 import { AuthModule } from './modules/auth/auth.module';
 import { OtpModule } from './modules/otp/otp.module';
 import { UsersModule } from './modules/users/users.module';
+import { CollegesModule } from './modules/colleges/colleges.module';
 
 @Module({
   imports: [
@@ -27,6 +28,7 @@ import { UsersModule } from './modules/users/users.module';
     AuthModule,
     OtpModule,
     UsersModule,
+    CollegesModule,
   ],
 })
 export class AppModule {}
