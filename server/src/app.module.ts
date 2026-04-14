@@ -7,6 +7,8 @@ import { AuthModule } from './modules/auth/auth.module';
 import { OtpModule } from './modules/otp/otp.module';
 import { UsersModule } from './modules/users/users.module';
 import { CollegesModule } from './modules/colleges/colleges.module';
+import { EnrollmentsModule } from './modules/enrollments/enrollments.module';
+import { CheckoutModule } from './modules/checkout/checkout.module';
 
 @Module({
   imports: [
@@ -29,6 +31,8 @@ import { CollegesModule } from './modules/colleges/colleges.module';
     OtpModule,
     UsersModule,
     CollegesModule,
+    EnrollmentsModule,
+    CheckoutModule,
   ],
 })
 export class AppModule {}

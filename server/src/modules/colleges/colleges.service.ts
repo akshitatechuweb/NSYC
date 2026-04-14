@@ -130,4 +130,12 @@ export class CollegesService implements OnModuleInit {
       totalPages,
     };
   }
+
+  findOneCourse(collegeName: string, courseName: string): CollegeResponse | undefined {
+    return this.flattenedColleges.find(
+      (item) =>
+        item.name.toLowerCase() === collegeName.toLowerCase() &&
+        item.course.toLowerCase() === courseName.toLowerCase()
+    );
+  }
 }
